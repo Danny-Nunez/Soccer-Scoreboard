@@ -1,8 +1,7 @@
 # Soccer-Scoreboard
 This is a Solo Project of my JavaScript Scrimba course. Used to display scores. Built from scratch.
 
-*My process
-
+My process
 -Languages and Tools-
 
 HTML5
@@ -15,7 +14,6 @@ Visual Studio
 
 
 -Built With-
-
 Desktop first workflow
 
 Semantic HTML5 markup
@@ -27,7 +25,6 @@ CSS Flexbox
 Vanilla JavaScript
 
 -What I Learnt-
-
 Design to code conversion
 
 Understood CSS Flexbox better

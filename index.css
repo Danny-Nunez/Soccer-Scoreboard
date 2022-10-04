@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    background: #270c39;
+}
+#button1 {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+    margin-left: -5px;
+}
+
+#point-El {
+    color: crimson;
+    font-size: 104px;
+    text-align: center;
+    font-family: 'Cursed Timer ULiL';
+    padding-top: 10px;
+}
+
+#point2-El {
+    color: crimson;
+    font-size: 104px;
+    text-align: center;
+    font-family: 'Cursed Timer ULiL';
+    padding-top: 10px;
+}
+
+.window {
+    width: 100%;
+    max-height: 800px;
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+   
+}
+.window1 {
+    padding-right: 100px;
+    
+   
+}
+
+.container {
+    
+   
+    width:100%;
+    margin: auto;
+    background-image: url("images/scoreback.jpg"); /* The image used */
+    background-color: #270c39; /* Used if the image is unavailable */
+    height: 1000px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+.pointbox {
+display: flexbox;
+width: auto;
+height: 120px;
+background: #080001;
+border-radius: 5px;
+}
+.point2box {
+    display: flexbox;
+    width: auto;
+    height: 120px;
+    background: #080001;
+    border-radius: 5px;
+    
+    }
+
+.plusone{
+    margin-top: 20px;
+    margin-right: 0px;
+float: left;
+box-sizing: border-box;
+width: 45px;
+height: 45px;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 38px;
+text-align: center;
+color: #9AABD8;
+}
+.plustwo{
+    margin-top: 20px;
+    margin-right: 0px;
+    float: left;
+    box-sizing: border-box;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 38px;
+text-align: center;
+color: #9AABD8;
+    }
